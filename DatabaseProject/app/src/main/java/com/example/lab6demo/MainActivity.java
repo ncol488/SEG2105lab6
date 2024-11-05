@@ -8,7 +8,8 @@ import android.widget.EditText;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import kotlin.annotation.MustBeDocumented;
+import com.group20.databaseproject.R;
+
 
 public class MainActivity extends AppCompatActivity {
 

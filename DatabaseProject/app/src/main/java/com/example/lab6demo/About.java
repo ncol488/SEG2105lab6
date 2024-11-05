@@ -4,6 +4,8 @@ import android.os.Bundle;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.group20.databaseproject.R;
+
 public class About extends AppCompatActivity {
 
     @Override
